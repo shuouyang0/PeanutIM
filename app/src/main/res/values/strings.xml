@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PeanutIM</string>
+    <string name="fast_input_label">Peanut输入法</string>
+    <string name="fast_input_settings">Peanut输入法设置页面</string>
+</resources>
