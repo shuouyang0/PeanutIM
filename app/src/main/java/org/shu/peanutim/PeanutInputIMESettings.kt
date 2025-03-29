@@ -13,7 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import org.shu.peanutim.ui.theme.PeanutIMTheme
 
-class FastInputIMESettings : ComponentActivity() {
+class PeanutInputIMESettings : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
